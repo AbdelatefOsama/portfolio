@@ -170,7 +170,7 @@ If you're interested in collaborating, discussing a project, or working together
 
 ### Portfolio
 
-[My Portfolio](https://github.com/AbdelatefOsama/portfolio)
+[My Portfolio](https://abdelatefosama.github.io/portfolio/)
 
 ---
 
